@@ -1,0 +1,27 @@
+{
+	"name": "question_2_express_js",
+	"version": "1.0.0",
+	"description": "Using the framework, build an api server to manage inventory information",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start:app": "nodemon app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/oghene-ella/Servers_APIs_Express.git"
+	},
+	"author": "Ellahhh",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/oghene-ella/Servers_APIs_Express/issues"
+	},
+	"homepage": "https://github.com/oghene-ella/Servers_APIs_Express#readme",
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"express": "^4.18.2"
+	},
+	"devDependencies": {
+		"@types/express": "^4.17.17"
+	}
+}
